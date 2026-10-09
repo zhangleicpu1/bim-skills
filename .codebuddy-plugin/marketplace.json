@@ -1,0 +1,23 @@
+{
+  "name": "bim-skills",
+  "description": "BIM 教学系列 Skill 合集：从碰撞检测到答辩 PPT 的完整应用链路",
+  "description_en": "BIM teaching skill collection: a complete workflow from clash detection to defense presentation",
+  "owner": {
+    "name": "BIM Teaching"
+  },
+  "metadata": {
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "bim-toolkit",
+      "description": "BIM 课程教学工具包：把 9 个 BIM 应用 Skill 一次装齐，覆盖碰撞检测、专项可视化、选题调研、参数化族、建模框架、4D 施工模拟、工程量统计、答辩 PPT 生成，以及 Skill 制作规范。",
+      "source": "./plugins/bim-toolkit",
+      "category": "productivity",
+      "author": {
+        "name": "BIM Teaching"
+      },
+      "license": "MIT"
+    }
+  ]
+}
